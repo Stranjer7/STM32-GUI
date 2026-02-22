@@ -1,0 +1,30 @@
+# --- STM32CubeIDE Build Outputs ---
+# These folders contain compiled files that change every time you build.
+Debug/
+Release/
+build/
+
+# Binary files (firmware images)
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.srec
+
+# Object files and dependencies
+*.o
+*.d
+*.su
+
+# Eclipse/IDE temporary backup files
+*.cproject~
+*.project~
+*.launch~
+*.settings/~*
+*.tmp
+*.bak
+
+# Operating System junk files
+.DS_Store
+Thumbs.db
