@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.6.0">
   <diagram name="Page-1" id="Qez8LEsp-PCs2deroBsp">
-    <mxGraphModel dx="1470" dy="840" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1838" dy="1050" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ihAk7EIVaG19XJPid5Wx-8" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wosB8ib4cHuo2Q1WJu_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ihAk7EIVaG19XJPid5Wx-14" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ihAk7EIVaG19XJPid5Wx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ihAk7EIVaG19XJPid5Wx-17" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ihAk7EIVaG19XJPid5Wx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_wosB8ib4cHuo2Q1WJu_-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;STM32F105RBT6&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="160" x="882" y="285" as="geometry" />
         </mxCell>
@@ -61,13 +70,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_wosB8ib4cHuo2Q1WJu_-19" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Li-Ion Battery" vertex="1">
-          <mxGeometry height="90" width="90" x="307" y="450" as="geometry" />
+          <mxGeometry height="90" width="90" x="309" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="ihAk7EIVaG19XJPid5Wx-3" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353.5" y="441" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_wosB8ib4cHuo2Q1WJu_-20" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="DC POWER JACK" vertex="1">
-          <mxGeometry height="89" width="89" x="305" y="320.5" as="geometry" />
+          <mxGeometry height="89" width="89" x="309" y="320.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ihAk7EIVaG19XJPid5Wx-1" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="_wosB8ib4cHuo2Q1WJu_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ihAk7EIVaG19XJPid5Wx-2" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wosB8ib4cHuo2Q1WJu_-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_wosB8ib4cHuo2Q1WJu_-21" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="POWER HEADER" vertex="1">
-          <mxGeometry height="88" width="88" x="306" y="198" as="geometry" />
+          <mxGeometry height="88" width="88" x="309" y="197" as="geometry" />
         </mxCell>
         <mxCell id="_wosB8ib4cHuo2Q1WJu_-45" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="_wosB8ib4cHuo2Q1WJu_-21">
           <mxGeometry relative="1" as="geometry" />
@@ -95,8 +115,20 @@
         <mxCell id="_wosB8ib4cHuo2Q1WJu_-41" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="USB OTG&amp;nbsp;" vertex="1">
           <mxGeometry height="124" width="124" x="681.25" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="_wosB8ib4cHuo2Q1WJu_-44" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;SERIAL COMMUNICATION&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(SPI /I2C/UART)&amp;nbsp;" vertex="1">
+        <mxCell id="_wosB8ib4cHuo2Q1WJu_-44" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;AUDIO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(I2S)&lt;/div&gt;" vertex="1">
           <mxGeometry height="124" width="124" x="972" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="ihAk7EIVaG19XJPid5Wx-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;CONNECTIVITY&lt;/div&gt;&lt;div&gt;(ESP32-WROOM)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="111.5" width="111.5" x="1233" y="311.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ihAk7EIVaG19XJPid5Wx-11" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.081;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" target="ihAk7EIVaG19XJPid5Wx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ihAk7EIVaG19XJPid5Wx-12" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="MOTOR DRIVER" vertex="1">
+          <mxGeometry height="99" width="99" x="792" y="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ihAk7EIVaG19XJPid5Wx-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="OSCILLOSCOPE INPUT" vertex="1">
+          <mxGeometry height="99" width="99" x="1042" y="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
