@@ -18,7 +18,7 @@
         <mxCell id="ihAk7EIVaG19XJPid5Wx-37" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=light-dark(#000000,#000000);fillColor=#f8cecc;strokeColor=light-dark(#B85450,#808080);gradientColor=#ea6b66;fontStyle=1" target="ihAk7EIVaG19XJPid5Wx-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_wosB8ib4cHuo2Q1WJu_-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#6c8ebf;fontStyle=1;fontColor=light-dark(#000000,#000000);" value="&lt;div&gt;STM32F105RBT6&lt;/div&gt;" vertex="1">
+        <mxCell id="_wosB8ib4cHuo2Q1WJu_-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#6c8ebf;fontStyle=1;fontColor=light-dark(#000000,#000000);" value="&lt;div&gt;STM32F105RBT6&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;72MHz │ 128KB Flash │ 32KB SRAM&amp;nbsp; &amp;nbsp;│&lt;br&gt;│&amp;nbsp; &amp;nbsp;ARM Cortex-M3 │ Connectivity Line&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="160" x="883.5" y="444" as="geometry" />
         </mxCell>
         <mxCell id="ihAk7EIVaG19XJPid5Wx-38" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" target="_wosB8ib4cHuo2Q1WJu_-44">
@@ -65,7 +65,7 @@
           <mxGeometry height="124" width="124" x="758" y="853" as="geometry" />
         </mxCell>
         <mxCell id="_wosB8ib4cHuo2Q1WJu_-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="CAN BUS" vertex="1">
-          <mxGeometry height="120" width="120" x="1053" y="853" as="geometry" />
+          <mxGeometry height="127" width="127" x="1053" y="853" as="geometry" />
         </mxCell>
         <mxCell id="ihAk7EIVaG19XJPid5Wx-51" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" target="ihAk7EIVaG19XJPid5Wx-44">
           <mxGeometry relative="1" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry height="124" width="124" x="902.25" y="853" as="geometry" />
         </mxCell>
         <mxCell id="ihAk7EIVaG19XJPid5Wx-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="&lt;div&gt;CONNECTIVITY&lt;/div&gt;&lt;div&gt;(ESP32-WROOM)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="117" width="117" x="1217.25" y="853" as="geometry" />
+          <mxGeometry height="126" width="126" x="1217.25" y="853" as="geometry" />
         </mxCell>
         <mxCell id="ihAk7EIVaG19XJPid5Wx-12" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1" value="&lt;div&gt;DUAL-MOTOR DRIVER&lt;/div&gt;&lt;div&gt;(TB6612)&lt;/div&gt;" vertex="1">
           <mxGeometry height="99" width="99" x="806.75" y="141" as="geometry" />
