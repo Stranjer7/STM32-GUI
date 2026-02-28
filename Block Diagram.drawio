@@ -91,7 +91,7 @@
         <mxCell id="_wosB8ib4cHuo2Q1WJu_-25" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontStyle=1" value="12V-5V LDO" vertex="1">
           <mxGeometry height="88" width="88" x="358" y="401" as="geometry" />
         </mxCell>
-        <mxCell id="_wosB8ib4cHuo2Q1WJu_-40" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=light-dark(#000000,#000000);fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontStyle=1" target="_wosB8ib4cHuo2Q1WJu_-1">
+        <mxCell id="_wosB8ib4cHuo2Q1WJu_-40" edge="1" parent="1" source="_wosB8ib4cHuo2Q1WJu_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=light-dark(#000000,#000000);fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontStyle=1" target="_wosB8ib4cHuo2Q1WJu_-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_wosB8ib4cHuo2Q1WJu_-32" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontStyle=1" value="3.3V BUCK -BOOST REGULATOR&amp;nbsp;&lt;br&gt;&lt;br&gt;(TPS63030DSKR)" vertex="1">
