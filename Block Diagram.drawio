@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.6.0">
   <diagram name="Page-1" id="Qez8LEsp-PCs2deroBsp">
-    <mxGraphModel dx="1908" dy="908" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="light-dark(#FFFFFF,#E6E6E6)" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="649" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="2339" background="light-dark(#FFFFFF,#E6E6E6)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,6 +143,15 @@
         </mxCell>
         <mxCell id="ihAk7EIVaG19XJPid5Wx-44" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#BD7000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fontStyle=1;fillColor=#f0a30a;" value="POWER SELECTION" vertex="1">
           <mxGeometry height="90" width="90" x="528" y="478.81" as="geometry" />
+        </mxCell>
+        <mxCell id="ihAk7EIVaG19XJPid5Wx-54" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontStyle=1" value="&lt;div&gt;Li-Ion Battery Charger&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="90" x="357" y="731" as="geometry" />
+        </mxCell>
+        <mxCell id="ihAk7EIVaG19XJPid5Wx-58" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" target="_wosB8ib4cHuo2Q1WJu_-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="403" y="725" as="sourcePoint" />
+            <mxPoint x="441" y="672" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
